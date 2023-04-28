@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.exe
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.deps.json
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.json
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.dll
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.pdb
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.dll
+D:\DLS-RFP-278\Project\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.pdb
